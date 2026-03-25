@@ -1,0 +1,5 @@
+streamlit
+yt-dlp
+basic-pitch
+numpy<1.24
+music21
