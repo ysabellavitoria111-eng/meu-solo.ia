@@ -2,4 +2,4 @@ streamlit
 yt-dlp
 numpy==1.23.5
 basic-pitch==1.0.1
-music21
+resampy==0.4.2
