@@ -1,5 +1,5 @@
 streamlit
 yt-dlp
-basic-pitch
-numpy<1.24
+numpy==1.23.5
+basic-pitch==1.0.1
 music21
